@@ -1,0 +1,10 @@
+adv_bignum.o: adv_bignum.c /usr/include/stdc-predef.h lcd.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.9/include/stddef.h adv_bignum.h
+
+/usr/include/stdc-predef.h:
+
+lcd.h:
+
+/usr/lib/gcc/arm-linux-gnueabihf/4.9/include/stddef.h:
+
+adv_bignum.h:

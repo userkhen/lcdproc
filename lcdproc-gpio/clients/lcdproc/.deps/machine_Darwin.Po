@@ -1,0 +1,3 @@
+machine_Darwin.o: machine_Darwin.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

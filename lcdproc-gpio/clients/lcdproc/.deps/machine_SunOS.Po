@@ -1,0 +1,3 @@
+machine_SunOS.o: machine_SunOS.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

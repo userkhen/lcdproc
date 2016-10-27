@@ -1,0 +1,10 @@
+lcd_lib.o: lcd_lib.c /usr/include/stdc-predef.h lcd.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.9/include/stddef.h ../../config.h
+
+/usr/include/stdc-predef.h:
+
+lcd.h:
+
+/usr/lib/gcc/arm-linux-gnueabihf/4.9/include/stddef.h:
+
+../../config.h:

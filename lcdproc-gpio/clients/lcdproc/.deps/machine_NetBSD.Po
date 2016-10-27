@@ -1,0 +1,3 @@
+machine_NetBSD.o: machine_NetBSD.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
